@@ -21,3 +21,7 @@ dependencies:
   - pip
   - pip:
     - emcee==3.0rc2
+    - astropy
+    - astroquery
+    - astroml
+    - corner
