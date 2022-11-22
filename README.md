@@ -1,5 +1,7 @@
 # Exercise_ML
-material for the machine learning course at OAR
+Material for the machine learning course at OAR. All the notebooks are from different sources: 
+* https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions 
+* https://github.com/JWarmenhoven/Coursera-Machine-Learning/tree/master/notebooks
 
 Below are instructions for the standard install of Python > 3.7 for the course.
 
