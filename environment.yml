@@ -15,12 +15,12 @@ dependencies:
   - pystan
   - pymc3
   - arviz
-  - sklearn
   - corner
-  - torch
   - pip
   - pip:
     - emcee==3.0rc2
+    - sklearn
+    - torch
     - astropy
     - astroquery
     - astroml
