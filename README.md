@@ -11,6 +11,11 @@ Below there are instructions for the standard install of Python > 3.7 for the co
 * To activate the environment, this should be done prior to any work at the DSFP, enter the following on the command line:  **conda activate OAR_ML_env**
 * To exit the environment, type the following: **conda deactivate**
 
+If you don't want to install Anaconda or python on your pc, you still can work on the notebooks:
+* go on google colab and log with your google account
+* open the Github option and set the connection with this repository (see the picture) : <img src="Colab.png">
+
+
 ## Python Tutorial
 
 If you are very new with python, please use these tutorials before the course: 
