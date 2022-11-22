@@ -12,5 +12,6 @@ Below are instructions for the standard install of Python > 3.7 for the course.
 # Python Tutorial
 
 If you are very new with python, please use this tutorial before the course: 
- ** https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html
- ** https://github.com/milaan9/01_Python_Introduction
+
+* https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html
+* https://github.com/milaan9/01_Python_Introduction
