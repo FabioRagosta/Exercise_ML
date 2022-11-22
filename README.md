@@ -3,7 +3,7 @@ Material for the machine learning course at OAR. All the notebooks are from diff
 * https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions 
 * https://github.com/JWarmenhoven/Coursera-Machine-Learning/tree/master/notebooks
 
-Below are instructions for the standard install of Python > 3.7 for the course.
+Below there are instructions for the standard install of Python > 3.7 for the course.
 
 * Download the appropriate version of miniconda for your computing environment: https://conda.io/miniconda.html
 * Follow the "quick install" instructions to install miniconda on your machine: https://conda.io/docs/install/quick.html
