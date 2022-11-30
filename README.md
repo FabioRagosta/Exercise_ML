@@ -39,4 +39,4 @@ All the notebooks we will use are coming from:
 
 ## Problems? Questions?
 
-For any questions or problems don't hesistate to contact me at fabio.ragosta@inaf.it or skype: 
+For any questions or problems don't hesistate to contact me at fabio.ragosta@inaf.it  
